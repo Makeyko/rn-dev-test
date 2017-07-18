@@ -1,3 +1,11 @@
+For test use Exponent app.
+iOS: https://itunes.com/apps/exponent
+Android: https://play.google.com/store/apps/details?id=host.exp.exponent
+
+Expo link: https://exp.host/@makey/inploi 
+
+
+
 # rn-dev-test
 React Native Developer Test
 
